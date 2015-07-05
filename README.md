@@ -4,6 +4,8 @@
 
 [Download](https://github.com/yusuga/alfred-codic-workflow/blob/master/codic.alfredworkflow?raw=)
 
+![preview](RESOURCES/codic.gif)
+
 ---
 
 v3になってから候補が一つしか表示されないような気がする(複数表示されるものが少ない？)ので、このWorkflowは決め打ちで一つしか表示させていません。複数表示されるキーワードが多くなれば対応します。
